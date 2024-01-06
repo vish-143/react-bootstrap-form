@@ -9,9 +9,9 @@ export class InfoComp extends Component {
             <>
                 <div className='p-3'>
                     <div className="logo d-flex">
-                        <img src={Logo} alt="logo" height={60} width={200} />
+                        <img src={Logo} alt="logo" height={60} width={250} />
                         <div style={{marginLeft:'1rem'}}>
-                            <p className='fw-bold fs-5 mb-0'>Surya Softwares</p>
+                            <p className='fw-bold fs-5 mb-0'>Vishva Softwares</p>
                             <p className="mt-0"><small>Beyond Expectation</small></p>
                         </div>
                     </div>

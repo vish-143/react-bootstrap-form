@@ -1,7 +1,7 @@
 export const IconList = ["bi bi-telephone-outbound-fill me-3",
     "bi bi-globe-central-south-asia mt-0 me-3", "bi bi-envelope-fill me-3"];
 
-export const IconData = ["+0 1123 456 789", "www.suryasoftwares.com", "suryasoft@gmail.com"];
+export const IconData = ["+91-6369366909", "www.vishvasoftwares.com", "craziekuttyvishwa420@gmail.com"];
 
 export const Titles = [
     "Date", "First Name", "Last Name", "Gender", "Date of Birth",
